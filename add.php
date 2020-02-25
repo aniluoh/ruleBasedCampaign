@@ -113,7 +113,7 @@
 				        	<div class="btn-default">
 				        	<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2<?php echo $data['id'];?>">Edit</button>
 				        	</div>
-				        </td>s
+				        </td>
 				      </tr>
 <!-- Edit Form start -->
 			<form action="update.php" method="post">
