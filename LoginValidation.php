@@ -35,3 +35,6 @@
 	}
 
 ?>
+
+
+<!-- SELECT campaign,condition FROM add_rule as a, campaign_data as c where a.campaign = c.campaign AND STATUS = "15 Minute"; -->
