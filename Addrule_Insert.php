@@ -8,7 +8,7 @@
 	}
 	$rulename = $_POST['RuleName'];
 	$campaigns = $_POST['Campaigns'];
-	$schedule = $_POST['Schedule'];
+	$schedule = $_POST['Schedulezz'];
 	$condition = $_POST['Conditions'];
 	$action = $_POST['Action'];
 	$status = $_POST['Status'];
